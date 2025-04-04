@@ -1,0 +1,3 @@
+2025-04-04 07:13:07.095382 - Received CBT.V508.FILE281.PDS from FILE281.XMI 
+2025-04-04 07:13:07.095903 - Found NSCATS.bin (application/octet-stream) in CBT.V508.FILE281.PDS, moved to PDS/NSCATS
+2025-04-04 07:13:07.096072 - Found SCRIPT.bin (application/octet-stream) in CBT.V508.FILE281.PDS, moved to PDS/SCRIPT
